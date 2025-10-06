@@ -1,5 +1,7 @@
 ## Hi there, I'm Gabi 👋
 
+---
+
 🎓 **BSc in Analysis and Systems Development** | Currently doing a **Postgraduate in Machine Learning Engineering**
 
 ---
